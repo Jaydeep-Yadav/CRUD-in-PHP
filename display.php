@@ -21,7 +21,7 @@
     <div class="container-fluid text-right">
         <div class="row">
             <div class="col-lg-6 m-auto pt-4">
-            <h5><a href="create.php"><input type="button" value="Create Users" class="btn btn-primary"></a></h5>
+            <h5><a href="index.php"><input type="button" value="Create Users" class="btn btn-primary"></a></h5>
             </div>
         </div>
     </div>
